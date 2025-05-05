@@ -1,3 +1,5 @@
 /myenv
 .DS_Store
 capstone/.DS_Store
+.ipynb_checkpoints
+capstone/.ipynb_checkpoints
